@@ -1,0 +1,22 @@
+.inc{
+    padding: 2em 1em ;
+}
+.inc > h3{
+    color: hsl(14, 45%, 36%);
+    font-size: 1.5em;
+}
+.inc > ul{
+        padding: 1em;
+}
+.inc> ul > li {
+    margin-top: 1em;
+    padding: 0  1em ;
+
+}
+.inc> ul > li::marker {
+    color:  hsl(332, 51%, 32%);
+
+}
+.inc > hr{
+    margin-top: 1em;
+}
