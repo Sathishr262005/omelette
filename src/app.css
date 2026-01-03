@@ -1,0 +1,80 @@
+.cont{
+    background-color: hsl(30, 54%, 90%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont > div{
+    width: 50%;
+    background-color: white;
+    border-radius: 1em;
+    padding: 2em 1.5em;
+    margin:4em 0 4em 0 ;
+
+}
+img{
+    width: 100%;
+    border-radius: 0.5em ;
+
+}
+.heading{
+    margin-top: 0.8em;
+    font-weight: 700;
+    margin-bottom: 0.5em;
+}
+.para1{
+    font-size: 10px;
+    color: hsl(30, 10%, 34%);
+    margin-bottom: 1.5em;
+}
+.prepare{
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 0.5em;
+    padding: 0.8em 1.5em;
+    margin-bottom: 1.5em;
+}
+.prepare>h6{
+    margin-bottom: 0.8em;
+    color: hsl(332, 51%, 32%);
+}
+.prepare>p{
+    padding: 0 0 0 1.2em;
+}
+ul>li{
+    margin-bottom: 1em;
+
+}
+h3{
+    color: hsl(14, 45%, 36%);
+    
+}
+.ul2{
+    padding: 1.2em;
+    font-size: 10px;
+    color: hsl(30, 10%, 34%);
+}
+h3{
+    color: hsl(14, 45%, 36%);
+    margin-top: 1em;
+    /* margin-bottom: 1em; */
+}
+ol{
+     margin-bottom: 1.5em;
+}
+ol>li{
+    margin: 1em;
+    font-size: 10px;
+    color: hsl(30, 10%, 34%);
+    padding-left: 1em;
+}
+ol > li::marker{
+    font-weight: bold;
+    color: hsl(14, 45%, 36%);;
+}
+.para2{
+    margin-top: 1em;
+    color: hsl(30, 10%, 34%);
+    font-size: 10px;
+    margin-bottom: 0.8em;
+
+}
