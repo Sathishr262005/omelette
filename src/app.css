@@ -1,13 +1,15 @@
-.container{
-    background-color: hsl(30, 54%, 90%);
+.outer{
+    width: 100%;
+    background-color: hsl(30, 54%, 90%) ;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 8em;
+    padding-top: 5em;
+    padding-bottom: 5em;
 }
-.container > div{
+.inner{
     width: 50%;
-    background-color: white ;
-    border-radius: 1rem;
+    background-color: white;
     padding: 2em 1.5em;
+    border-radius: 1.5em;
 }

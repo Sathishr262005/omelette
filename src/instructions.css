@@ -1,25 +1,13 @@
-.inst{
-    padding: 2em 1em ;
+ol{
+    margin: 1em;
+    color: hsl(30, 10%, 34%);
+    font-size: 14px;
+
 }
-.inst > h3{
+li{
+    margin-bottom: 5px;
+}
+ol>li::marker{
     color: hsl(14, 45%, 36%);
-    font-size: 1.5em;
-}
-.inst > ol{
-    padding: 1em;
-}
-.inst> ol > li {
-    margin-top: 1em;
-    padding: 0  1em ;
 
-}
-.inst> ol > li::marker {
-    color:  hsl(332, 51%, 32%);
-
-}
-.title{
-    color:  hsl(332, 51%, 32%);
-}
-.inst > hr{
-    margin-top: 1em;
 }

@@ -1,0 +1,20 @@
+h3{
+    font-size: 22px;
+    font-weight: 550;
+    color: hsl(14, 45%, 36%);
+    letter-spacing: 0.5px;
+    margin-bottom: 0.5em;
+    margin-top: 1em;
+}
+.ul2{
+    margin: 1em;
+    font-size: 14px;
+    color: hsl(30, 10%, 34%);
+}
+.ul2::marker{
+    color: hsl(14, 45%, 36%);
+}
+hr{
+    margin-top: 1.5em;
+    color: hsl(30, 10%, 34%);
+}

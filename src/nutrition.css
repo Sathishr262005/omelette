@@ -1,39 +1,5 @@
-div {
-  margin-top: 1em;
-}
-
-h3 {
-  color:  hsl(14, 45%, 36%);
-  margin-bottom: 1em;
-  font-size: 1.5em;
-
-}
-
-p {
-  color: hsl(30, 10%, 34%);
-  font-size:1em ;
-  margin-top: 2em;
-}
-
-table {
-    margin-top: 1em;
-    width: 100%;
-    border-collapse: collapse;
-}
-tr {
-    border-bottom: 1px solid #e3ddd7;
-}
-
-td {
-    padding: 1em;
-    color: #5f564d;
-}
-
-td:first-child {
-  padding-left: 2em;
-}
-
-td:last-child {
-  color: #854632;
-  font-weight: bold;
+.para3{
+    font-size: 14px;
+    color: hsl(30, 10%, 34%);
+    margin-bottom: 1em;
 }
